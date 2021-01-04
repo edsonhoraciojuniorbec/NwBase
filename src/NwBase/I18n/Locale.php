@@ -250,6 +250,7 @@ class Locale extends \Locale
             'tmcmx'         => 'es_mx',
             'palmira'       => 'es_co',
             'sigmamx'       => 'es_mx',
+            'pumaenergy'    => 'es_mx',
         );
     }
 
