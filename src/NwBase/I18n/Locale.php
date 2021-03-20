@@ -251,6 +251,7 @@ class Locale extends \Locale
             'palmira'       => 'es_co',
             'sigmamx'       => 'es_mx',
             'pumaenergy'    => 'es_mx',
+            'yupi'          => 'es_co',
         );
     }
 
